@@ -1,0 +1,10 @@
+{
+  "name": "datarefine-platform",
+  "version": "1.0.0",
+  "description": "Browser-based data cleaning, labeling and splitting for tables and images. Everything runs locally in the browser.",
+  "private": true,
+  "scripts": {
+    "test": "node tests/run.js"
+  },
+  "engines": { "node": ">=18" }
+}
